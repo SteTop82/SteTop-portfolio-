@@ -1,7 +1,7 @@
 # Site-wide settings
 # ------------------
 #
-title: Ste Topley | Illustrator
+title: Ste Topley
 #
 author:
    name: Ste Topley
@@ -77,7 +77,7 @@ theme: minima
 #       * title    Tooltip rendered on hovering over icon.
 #       * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
 #       * url      Full URL of social profile.
-#   social_links:
+social_links:
 #     - title: Minima Theme repository at GitHub
 #       icon: github
 #       url: "https://github.com/jekyll/minima"
