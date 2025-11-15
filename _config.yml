@@ -3,8 +3,8 @@
 #
 title: Ste Topley | Illustrator
 #
-# author:
-#   name: GitHub User
+author:
+   name: Ste Topley
 #   email: your-email@domain.com
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
@@ -29,9 +29,9 @@ theme: minima
 # remote_theme: jekyll/minima@d4d779a
 #
 # Minima requires the following plugins:
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+# plugins:
+#  - jekyll-feed
+#  - jekyll-seo-tag
 #
 # Uncomment the following setting if you wish to disable deprecation warnings
 #   from newer versions of sass converter. Adapt as required.
