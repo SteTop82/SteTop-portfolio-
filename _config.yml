@@ -1,7 +1,7 @@
 # Site-wide settings
 # ------------------
 #
-title: Your awesome title
+title: Ste Topley | Illustrator
 #
 # author:
 #   name: GitHub User
@@ -29,9 +29,9 @@ theme: minima
 # remote_theme: jekyll/minima@d4d779a
 #
 # Minima requires the following plugins:
-# plugins:
-#  - jekyll-feed
-#  - jekyll-seo-tag
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 #
 # Uncomment the following setting if you wish to disable deprecation warnings
 #   from newer versions of sass converter. Adapt as required.
@@ -89,4 +89,4 @@ theme: minima
 #     RSS / Atom feed link is always rendered as the last item of social-links
 #     list. Set below key to `true` to not have the link to feed rendered as
 #     part of social-links list.
-#   hide_site_feed_link: false
+   hide_site_feed_link: true
