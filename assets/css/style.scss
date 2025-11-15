@@ -5,3 +5,16 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+# Masonry and Lightbox
+.grid {
+  width: 100%;
+}
+.grid-item {
+  width: 33%;
+  margin-bottom: 10px;
+}
+.grid-item img {
+  width: 100%;
+  display: block;
+}
