@@ -4,6 +4,6 @@ title: Nocturneshire
 permalink: /nocturneshire/
 ---
 
-<p>The denizens of Nocturneshire.</p>
+The denizens of Nocturneshire.
 
 ![Yoto](/SteTop-portfolio-/images/Yoto.jpg)
